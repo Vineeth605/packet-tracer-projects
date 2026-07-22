@@ -5,6 +5,14 @@ I am a fresher passionate about networking and IT support. I have hands-on exper
 
 ## 💻 Projects
 
+### 🔹 Secure VLAN-Based Enterprise Network
+- Designed VLAN-based network for department segmentation
+- Configured Inter-VLAN Routing for communication
+- Implemented DHCP for automatic IP assignment
+- Applied ACL for network security
+- Configured NAT for internet access
+- Built and tested using Cisco Packet Tracer
+
 ### 🔹 VLAN Configuration Project
 - Configured VLANs for network segmentation
 - Improved network security and performance
