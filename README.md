@@ -1,32 +1,12 @@
 # Network Engineering Projects – Vineeth N
 
-## 📌 About Me
-I am a fresher passionate about networking and IT support. I have hands-on experience using Cisco Packet Tracer to design and configure networks.
+⭐ Hands-on networking projects using Cisco Packet Tracer  
+📌 Focus: VLAN | Routing | DHCP | NAT | ACL
 
-## 💻 Projects
+ ## 📌 About Me
+I am a passionate Network Engineering fresher with hands-on experience in designing, configuring, and troubleshooting networks using Cisco Packet Tracer. 
 
-### 🔹 Secure VLAN-Based Enterprise Network
-- Designed VLAN-based network for department segmentation
-- Configured Inter-VLAN Routing for communication
-- Implemented DHCP for automatic IP assignment
-- Applied ACL for network security
-- Configured NAT for internet access
-- Built and tested using Cisco Packet Tracer
-
-### 🔹 VLAN Configuration Project
-- Configured VLANs for network segmentation
-- Improved network security and performance
-
-### 🔹 Router + DHCP Project
-- Configured DHCP server for automatic IP assignment
-- Implemented routing between networks
-
-### 🔹 VLAN + DHCP Combined Project
-- Integrated VLANs with DHCP
-- Ensured communication between multiple networks
-
-## 🛠 Tools Used
-- Cisco Packet Tracer
+I have practical knowledge of VLANs, routing, DHCP, ACLs, and NAT, and I am actively building real-world networking projects to strengthen my skills.
 
 ## 📚 Skills
 - IP Addressing
@@ -35,6 +15,49 @@ I am a fresher passionate about networking and IT support. I have hands-on exper
 - Routing (OSPF basics)
 - DHCP
 - NAT
+- 
+## 💻 Projects
+
+### 🔹 🔹 Secure VLAN-Based Enterprise Network (VLAN | Routing | DHCP | ACL | NAT)
+- Designed VLAN-based network for department segmentation
+- Configured Inter-VLAN Routing for communication
+- Implemented DHCP for automatic IP assignment
+- Applied ACL for network security
+- Configured NAT for internet access
+- Built and tested using Cisco Packet Tracer
+
+📌 Use Case:
+Simulates an enterprise office network where different departments (HR, Admin, IT) are segmented using VLANs while maintaining secure and controlled communication.
+
+⚙️ Key Configurations:
+- VLAN creation and assignment
+- Inter-VLAN Routing using Router-on-a-Stick
+- DHCP pool configuration
+- Standard & Extended ACL rules
+- NAT (Static/Dynamic) configuration
+
+### 🔹 VLAN Configuration Project
+- Created multiple VLANs for department-wise segmentation
+- Configured trunk ports between switches
+- Verified VLAN communication and isolation
+- Improved network efficiency and security
+
+### 🔹 Router + DHCP Project
+- Configured DHCP server for automatic IP address allocation
+- Created multiple DHCP pools for different networks
+- Implemented routing between networks using a router
+- Verified connectivity using ping and IP configuration
+
+### 🔹 VLAN + DHCP Combined Project
+- Integrated VLANs with DHCP for dynamic IP assignment
+- Configured inter-VLAN routing for communication
+- Assigned IP pools per VLAN using DHCP
+- Ensured connectivity between multiple segmented networks
+  
+## 🛠️ Tools & Technologies
+- Cisco Packet Tracer
+- Networking Concepts: VLAN, DHCP, Routing, NAT, ACL
+- Protocols: TCP/IP, ICMP
 
 ## 🎯 Career Objective
-To start my career as a Network Engineer / IT Support Engineer and grow in the networking domain.
+To start my career as a Network Engineer or IT Support Engineer where I can apply my networking skills, gain real-world experience, and contribute to building efficient and secure network infrastructures.
