@@ -37,7 +37,7 @@ Simulates an enterprise office network where different departments (HR, Admin, I
 - NAT (Static/Dynamic) configuration
 
  🖼️ Network Topology  
-- image/secure-vlan-enterprise-network.png
+- ![image](image/secure-vlan-enterprise-network.png)
 
 ### 🔹 VLAN Configuration Project
 - Created multiple VLANs for department-wise segmentation
@@ -46,7 +46,7 @@ Simulates an enterprise office network where different departments (HR, Admin, I
 - Improved network efficiency and security
 
  🖼️ Network Topology 
-- image/VLAN Topology.png
+- ![image](image/VLAN Topology.png)
 
 ### 🔹 Router + DHCP Project
 - Configured DHCP server for automatic IP address allocation
@@ -55,7 +55,7 @@ Simulates an enterprise office network where different departments (HR, Admin, I
 - Verified connectivity using ping and IP configuration
 
  🖼️ Network Topology 
-- image/Router+DHCP Topology.png
+- ![image](image/Router+DHCP Topology.png)
 
 ### 🔹 VLAN + DHCP Combined Project
 - Integrated VLANs with DHCP for dynamic IP assignment
@@ -64,7 +64,7 @@ Simulates an enterprise office network where different departments (HR, Admin, I
 - Ensured connectivity between multiple segmented networks
 
  🖼️ Network Topology 
-- image/VLAN+DHCP Topology.png
+- ![image](image/VLAN+DHCP Topology.png)
   
 ## 🛠️ Tools & Technologies
 - Cisco Packet Tracer
